@@ -1,3 +1,5 @@
+#UN CAMBIO DE PRUEBA 
+
 monto_total_diario = 0.0
 caja_abierta = True
 

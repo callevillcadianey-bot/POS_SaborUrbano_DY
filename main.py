@@ -49,13 +49,16 @@ while caja_abierta:
         else:
             print("Venta habitual")
 
-    if(opcion == 2):
+    elif(opcion == 2):
         print("VER TOTAL ACUMULADO DEL DIA.")
         
 
-    if(opcion == 3):
+    elif(opcion == 3):
         print("CERRAR CAJA Y SALIR.")
         caja_abierta = False
 
+    else:
+        print("Opción no válida. Porfavor, ingrese 1, 2 o 3: ")
+    
 
-
+    
